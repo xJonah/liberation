@@ -1,6 +1,6 @@
 # Liberation
-Team 22's Game
+Multiplayer game developed as part of Team Project university module.
 
-This game was developed as part of our Team Project university module.
+Game created using Unity(C#) and the Photon multiplayer engine.
 
-This was created using Unity(C#) and the Photon multiplayer engine.
+Project Role - Lead Developer
